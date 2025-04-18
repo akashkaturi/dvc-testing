@@ -1,0 +1,5 @@
+outs:
+- md5: 2c8022538aff7fc81354bccdadd0a3ee
+  size: 43194
+  hash: md5
+  path: statues_labels.csv
